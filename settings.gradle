@@ -1,0 +1,8 @@
+
+
+
+rootProject.name = 'cucumber-maveric'
+
+include 'core'
+include 'table'
+
